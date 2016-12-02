@@ -10,6 +10,7 @@ Ideas for workshops to do:
 - [Threat-Model](Threat-Model.md)
 - [WebGoat](WebGoat.md)
 - [ZAP](ZAP.md)
+- NodeJS Security (Penetration testing of a NodeJS app).
 
 ----
 
